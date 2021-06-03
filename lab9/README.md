@@ -21,8 +21,8 @@ $ export GITHUB_TOKEN=<token>
 ```
 
 ```sh
-$ git clone https://github.com/lozchkavarene/Report_08 projects/Report_09
-$ cd timp/Report_09
+$ git clone https://github.com/lozchkavarene/lab8 projects/lab9
+$ cd timp/lab9
 $ git remote remove origin
 $ gh repo create
 ```
@@ -86,7 +86,7 @@ $ gh release upload v0.1.0.1 ./build/cpack/*.tar.gz
 ```
 
 ```sh
-$ wget https://github.com/lozchkavarene/Report_09/releases/download/v0.1.0.1/print-0.1.0.0-Linux.tar.gz
+$ wget https://github.com/lozchkavarene/lab9/releases/download/v0.1.0.1/print-0.1.0.0-Linux.tar.gz
 $ tar -ztf solver-0.1.0.0-Linux.tar.gz
 ```
 
