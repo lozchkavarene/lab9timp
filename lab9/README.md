@@ -79,7 +79,7 @@ $ gh release create v0.1.0.1
 	? Release notes Write my own
 	? Is this a prerelease? No
 	? Submit? Publish release
-	https://github.com/lozchkavarene/Report_09/releases/tag/v0.1.0.1
+	https://github.com/lozchkavarene/lab9/releases/tag/v0.1.0.1
 
 $ gh release upload v0.1.0.1 ./build/cpack/*.tar.gz
     Successfully uploaded 1 asset to v0.1.0.1
